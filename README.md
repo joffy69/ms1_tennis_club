@@ -1,4 +1,4 @@
-#Anytown Tennis Club
+# Anytown Tennis Club
 
 Anytown Tennis club want a new web design to help them increase membership.
 They also want current members to be able to access various booking facilities online,
@@ -7,12 +7,39 @@ to free front of office staff from excessive phone answering.
 Like many such organization, they have a tight budget, and any way of automating office functions
 and user (member/nonmember) interactions will drive costs down.
 
-##UX
+## UX
 
-*The website is initially for members and nonmembers, providing information about the club and its facilities.
-    *members may book courts, coaching and leave messages enquiring about other players availability
-    *nonmembers are encouraged to view galleries of pics, 
-*Staff are not considered at this stage.
+- The website is initially for members and nonmembers, providing information about the club and its facilities.
+    - members may book courts, coaching and leave messages enquiring about other players availability
+    - nonmembers are encouraged to view galleries of pics, 
+- Staff are not considered at this stage, but would eventually want control of certain aspects ie court booking, competitions etc
+
+### Nonmembers
+1. A family, new to the area, find the website while searching "tennis club anytown". 
+    1. They want to know prices for adults and childen (beginners)
+    2. Is there any social scene?
+2. A young player seeks others for games and social activities.
+3. A potential member wishes to visit the club and see the facilties.
+
+### Members
+- want to
+    - view possible times for court booking
+    - sign up as singleton/pair looking for games
+    - book coaching
+    - enter competitions/ladders
+    - 
+
+### Staff
+
+1. Internal
+    - Secretaries
+    - Committee
+    - Ground staff
+    - Kitchen/Bar staff
+    - Shop staff
+
+2. External
+    - Coaches
 
 
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve
