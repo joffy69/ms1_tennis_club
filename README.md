@@ -9,10 +9,10 @@ and user (member/nonmember) interactions will drive costs down.
 
 ##UX
 
--The website is initially for members and nonmembers, providing information about the club and its facilities.
-    -members may book courts, coaching and leave messages enquiring about other players availability
-    -nonmembers are encouraged to view galleries of pics, 
--Staff are not considered at this stage.
+- The website is initially for members and nonmembers, providing information about the club and its facilities.
+    - members may book courts, coaching and leave messages enquiring about other players availability
+    - nonmembers are encouraged to view galleries of pics, 
+- Staff are not considered at this stage.
 
 
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve
