@@ -12,6 +12,7 @@ and user (member/nonmember) interactions will drive costs down.
 - The website is initially for members and nonmembers, providing information about the club and its facilities.
     - members may book courts, coaching and leave messages enquiring about other players availability
     - nonmembers are encouraged to view galleries of pics, 
+<<<<<<< HEAD
 - Staff are not considered at this stage, but would eventually want control of certain aspects ie court booking, competitions etc
 
 ### Nonmembers
@@ -40,6 +41,9 @@ and user (member/nonmember) interactions will drive costs down.
 
 2. External
     - Coaches
+=======
+- Staff are not considered at this stage.
+>>>>>>> 2bd9a606588fd3640815406af4a95f426391e93c
 
 
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve
