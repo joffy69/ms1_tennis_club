@@ -43,6 +43,8 @@ and user (member/nonmember) interactions will drive costs down.
     - Coaches
 =======
 - Staff are not considered at this stage.
+
+# NB no mobile longcat
 >>>>>>> 2bd9a606588fd3640815406af4a95f426391e93c
 
 
