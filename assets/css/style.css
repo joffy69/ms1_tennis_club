@@ -2,33 +2,66 @@ body {
     padding: 0;
     margin: 0;
     border: 0;
-    background-color:beige
+    
 }
 
 #logo{
-    background: url("images/logo.jpg");
+    background-image: url("images/logo100.jpg");
+    background-size: 100px 100px;
+    background-repeat:no-repeat;
+    background-position: center;
+    border: none;
+    margin: 0%;
 }
 
+#bg_tennis{
+    background-image: url("images/tennis-generic.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position:top;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 100vh;
 
+}
+
+.container-fluid{
+    
+    padding: 0%;
+}
+
+.navbar{
+    padding: 0%;
+}
+
+.navbar-brand{
+    padding: 0%;
+}
+
+section{
+   
+}
 /* --------------------------- media queries ------------------------------*/
 
 @media screen and (min-width: 576px) { 
     body{
-        background-color: red;
+       /* background-color: red;*/
     }
  }
 
 /* Medium devices (tablets, 768px and up)*/
 @media screen and (min-width: 768px) {
     body{ 
-        background-color: blue;
+        /*background-color: blue;*/
     }
  }
 
 /* Large devices (desktops, 992px and up)*/
 @media screen and (min-width: 992px) { 
     body{
-        background-color:chartreuse;
+      /*  background-color:chartreuse;*/
     }
 
  }
@@ -36,7 +69,7 @@ body {
 /*Extra large devices (large desktops, 1200px and up)*/
 @media screen and (min-width: 1200px) { 
     body{
-        background-color:dodgerblue;
+        /*background-color:dodgerblue;*/
     }
 
  }

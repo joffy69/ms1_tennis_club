@@ -1,7 +1,4 @@
-nav bar in fluid container media queries work
+fixed logo and background image
 
-logo image won't appear - getting
-a 404 - path appears wrong
-assets/css/assets/images
-ie
--eu01.gitpod.io/assets/css/images/logo.jpg
+sizing still an issue with bg image
+logo has a white line round it. Why?
