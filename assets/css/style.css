@@ -5,6 +5,13 @@ body {
     background-color:beige
 }
 
+#logo{
+    background: url("images/logo.jpg");
+}
+
+
+/* --------------------------- media queries ------------------------------*/
+
 @media screen and (min-width: 576px) { 
     body{
         background-color: red;
@@ -27,7 +34,7 @@ body {
  }
 
 /*Extra large devices (large desktops, 1200px and up)*/
-@media screen and(min-width: 1200px) { 
+@media screen and (min-width: 1200px) { 
     body{
         background-color:dodgerblue;
     }
