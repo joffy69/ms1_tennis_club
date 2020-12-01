@@ -27,20 +27,23 @@
           <div id="nav_row" class="row">
             <div class="col col-sm nvb_d">
               <!-- logo anchor -->
-              <a class="navbar-brand" href="/">
+              <a id="logo-a" class="navbar-brand" href="/">
                 <img
                   id="logo"
                   class="bg-dark"
-                  width="100"
-                  height="100"
+                  width="100px"
+                  height="100px"
                   alt=""
                   loading="lazy"
                 />
               </a>
             </div>
-            <div id="any_t_title" class="col-sm d-none d-sm-block nvb_d"><h1>Anytown Tennis Club</h1></div>
+            <div id="any_t_title" class="col-sm d-none d-sm-block nvb_d">
+              <h1>Anytown Tennis Club</h1>
+            </div>
             <div class="col col-sm nvb_d">
               <button
+                id="nav-btn"
                 class="btn btn-secondary bg-dark"
                 type="button"
                 id="dropdownMenu2"
@@ -54,13 +57,18 @@
                 class="dropdown-menu dropdown-menu-right"
                 aria-labelledby="dropdownMenu2"
               >
-                <button class="dropdown-item" type="button">Action</button>
-                <button class="dropdown-item" type="button">
-                  Another action
-                </button>
-                <button class="dropdown-item" type="button">
-                  Something else here
-                </button>
+                <a class="btn btn-primary dropdown-item" href="/" role="button"
+                  >Home</a
+                >
+                <a class="btn btn-primary dropdown-item" href="#" role="button"
+                  >About The Club</a
+                >
+                <a class="btn btn-primary dropdown-item" href="#" role="button"
+                  >Find Us</a
+                >
+                <a class="btn btn-primary dropdown-item" href="#" role="button"
+                  >Members Login</a
+                >
               </div>
             </div>
           </div>
@@ -69,7 +77,42 @@
     </header>
     <section id="bg_tennis"></section>
 
-    <footer></footer>
+    <footer>
+      
+        <ul class="nav justify-content-center">
+          <li class="nav-item">
+            <a class="nav-link active" href="#">Contact Us</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Privacy Policy</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#"><i class="fab fa-facebook-square"></i></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#"><i class="fab fa-twitter-square"></i></a>
+          </li>
+          <li class="nav-item">
+            <a
+              class="nav-link disabled"
+              href="#"
+              tabindex="-1"
+              aria-disabled="true"
+              ><i class="fab fa-instagram-square"></i></a
+            >
+          </li>
+          <li class="nav-item">
+            <a
+              class="nav-link disabled"
+              href="#"
+              tabindex="-1"
+              aria-disabled="true"
+              ><i class="fas fa-map"></i></a
+            >
+          </li>
+        </ul>
+      
+    </footer>
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
       integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"

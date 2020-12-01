@@ -25,10 +25,11 @@ and user (member/nonmember) interactions will drive costs down.
 ### Members
 - want to
     - view possible times for court booking
-    - sign up as singleton/pair looking for games
+    - book courts
     - book coaching
-    - enter competitions/ladders
-    - 
+    - sign up as singleton/pair looking for games
+    - sign up for competitions/ladders
+ 
 
 ### Staff
 
