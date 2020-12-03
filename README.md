@@ -52,31 +52,36 @@ and user (member/nonmember) interactions will drive costs down.
 
 | Page      | Tests | 
 | :---        |    :----:   |   
-| ### index.html    | - [ ] Links
-- [ ] Aria controls
-- [ ] ....
- |     
-| ### members.html   | - [ ] Links
-- [ ] Aria controls
-- [ ] ....
- |     
-| ### find.html   | - [ ] Links
-- [ ] Aria controls
-- [ ] ....
- |       
-| ### about.html   | - [ ] Links
-- [ ] Aria controls
-- [ ] ....
- |       
-| ### privacy.html   | Text | 
-
-
-- [ ] Links
-- [ ] Aria controls
-- [ ] ....
-
-
-
+|  index.html    |  [ ] Links |
+|                   | [ ] Aria control|
+|                   | [ ] Titles |
+|                   | [ ] ...|
+|  Errors found     |  |
+| members.html    |  [ ] Links |
+|                   | [ ] Aria control|
+|                   | [ ] Titles |
+|                   | [ ] ...|
+|  Errors found     |  |
+| find.html    |  [ ] Links |
+|                   | [ ] Aria control|
+|                   | [ ] Titles |
+|                   | [ ] ...|
+|  Errors found     |  |
+| about.html    |  [ ] Links |
+|                   | [ ] Aria control|
+|                   | [ ] Titles |
+|                   | [ ] ...|
+|  Errors found     | social media links not opening in new page |
+| privacy.html    |  [ ] Links |
+|                   | [ ] Aria control|
+|                   | [ ] Titles |
+|                   | [ ] ...|
+|  Errors found     | logo not working |
+| contact.html    |  [ ] Links |
+|                   | [ ] Aria control|
+|                   | [ ] Titles |
+|                   | [ ] ...|
+|  Errors found     | social media links not opening in new page |
 
 
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve
