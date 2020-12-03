@@ -48,6 +48,36 @@ and user (member/nonmember) interactions will drive costs down.
 # NB no mobile longcat
 >>>>>>> 2bd9a606588fd3640815406af4a95f426391e93c
 
+## Testing
+
+| Page      | Tests | 
+| :---        |    :----:   |   
+| ### index.html    | - [ ] Links
+- [ ] Aria controls
+- [ ] ....
+ |     
+| ### members.html   | - [ ] Links
+- [ ] Aria controls
+- [ ] ....
+ |     
+| ### find.html   | - [ ] Links
+- [ ] Aria controls
+- [ ] ....
+ |       
+| ### about.html   | - [ ] Links
+- [ ] Aria controls
+- [ ] ....
+ |       
+| ### privacy.html   | Text | 
+
+
+- [ ] Links
+- [ ] Aria controls
+- [ ] ....
+
+
+
+
 
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve
  these things.
